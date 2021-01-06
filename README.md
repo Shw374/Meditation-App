@@ -12,7 +12,7 @@ This project is made in Html,Css and Javascript.
 ## Installing
 - Clone this repository
 - Open the cloned repository in any code editor
-- Run index.html file in the latest version of your browser
+- Run `index.html` file in the latest version of your browser
 
 ## Screenshot
 ![Meditation-App](https://user-images.githubusercontent.com/57098154/103535929-9e7e6f80-4eb7-11eb-8d06-5da656873af0.png)
