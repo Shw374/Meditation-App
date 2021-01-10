@@ -2,9 +2,9 @@
 In an ever-growing world. Take some time for yourself!
 
 ## Getting Started
-This project is made in Html,Css and Javascript.
+This project is made in Html,CSS and Javascript.:heart:
 
-**Feel free to star and clone this repository** :wink:
+**Feel free to star and fork this repository** :wink:
 
 ## Prerequisites
 - Any code editor you are comfortable with (VSCode preferably)
